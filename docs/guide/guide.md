@@ -4,5 +4,5 @@ layout: home
 nav_order: 2
 ---
 # ネーミング
-とりあえずつくってみた4bitPU。  
+とりあえずつくってみた4bitCPU。  
 (**T** oriaezu  **T** ukuttemita  **4** bitcpu)
