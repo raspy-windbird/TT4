@@ -1,7 +1,7 @@
 ---
 title: emu01
 layout: home
-nav_order: 3
+nav_exclude: true
 ---
 ## About
 Githubソースコードから読み込んで動作します。
