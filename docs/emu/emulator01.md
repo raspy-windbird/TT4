@@ -2,17 +2,10 @@
 title: エミュレーター
 nav_order: 3
 ---
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-<body>
-	<div>
+
+<div>
 	<p id="nowcount"></p>
 	<input type="button" value="power" id="power" />
 	</div>
 <script type="text/javascript" src="../../assets/js/emulator01.js">
 </script>
-</body>
