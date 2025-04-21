@@ -8,4 +8,4 @@ nav_order: 3
 	<p id="nowcount"></p>
 	<input type="button" value="power" id="power" />
 </div>
-<script type="text/javascript" src="../assets/js/emulator01.js"></script>
+<script type="text/javascript" src="https://github.com/raspy-windbird/TT4/blob/main/assets/js/emulator01.js"></script>
