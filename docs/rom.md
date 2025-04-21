@@ -1,6 +1,6 @@
 ---
 title: rom
-layout: default
+layout: home
 nav_order: 2
 ---
 # rom 
