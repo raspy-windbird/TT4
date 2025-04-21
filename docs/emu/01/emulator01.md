@@ -1,5 +1,5 @@
 ---
-title: エミュレーター
+title: emu01
 layout: home
 nav_order: 3
 ---
@@ -9,5 +9,5 @@ Githubソースコードから読み込んで動作します。
 	<p id="nowcount"></p>
 	<input type="button" value="power" id="power" />
 </div>
-<script type="text/javascript" src="../../assets/js/emulator01.js">
+<script type="text/javascript" src="../../../assets/js/emulator01.js">
 </script>
