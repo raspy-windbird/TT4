@@ -1,6 +1,7 @@
 ---
 title: emu01
 layout: home
+parent: "01"
 nav_exclude: true
 ---
 ## About
