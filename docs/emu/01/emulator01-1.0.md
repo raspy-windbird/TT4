@@ -1,7 +1,8 @@
 ---
-title: emu01
+title: emu01 - 1.0
 layout: home
 parent: "01"
+grand_parent: エミュレーター
 ---
 ## About
 Githubソースコードから読み込んで動作します。
