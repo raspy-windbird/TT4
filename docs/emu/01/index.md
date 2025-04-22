@@ -4,4 +4,4 @@ layout: home
 parent: エミュレーター
 nav_order: 1
 ---
-[emu01](./emulator01-1.0.html)
+# a
