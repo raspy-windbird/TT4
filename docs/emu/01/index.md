@@ -1,5 +1,5 @@
 ---
-title: "01"
+title: 01
 layout: home
 parent: エミュレーター
 nav_order: 1
