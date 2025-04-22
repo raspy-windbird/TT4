@@ -9,5 +9,5 @@ Githubソースコードから読み込んで動作します。
 	<p id="nowcount"></p>
 	<input type="button" value="power" id="power" />
 </div>
-<script type="text/javascript" src="../../../assets/js/emulator01-1.0.0.js">
+<script type="text/javascript" src="../../../assets/js/emulator01-1.0.js">
 </script>
